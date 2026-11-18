@@ -1,0 +1,9 @@
+[
+    {"id": "1", "title": "Genshin Impact", "status": "playing"},
+    {"id": "2", "title": "Honkai: Star Rail", "status": "playing"},
+    {"id": "3", "title": "Elden Ring", "status": "finished"},
+    {"id": "4", "title": "Persona 5 Royal", "status": "finished"},
+    {"id": "5", "title": "Cyberpunk 2077", "status": "dropped"},
+    {"id": "6", "title": "Baldur's Gate 3", "status": "backlog"},
+    {"id": "7", "title": "Hollow Knight", "status": "backlog"}
+]
